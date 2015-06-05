@@ -1,0 +1,23 @@
+{
+  "name": "extrapose",
+  "version": "1.0.0",
+  "authors": [
+    "Maxime Corson <maxime.corson@gmail.com>"
+  ],
+  "description": "jQuery plugin that put page content and areas forward.",
+  "main": "jquery.extrapose.js",
+  "keywords": [
+    "jquery",
+    "highlight",
+    "content",
+    "expose"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
